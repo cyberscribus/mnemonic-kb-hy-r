@@ -103,5 +103,3 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 [Հայկական մնեմոնիկ ստեղնաշարի նախագիծը։](https://github.com/dotland/mnemonic-kb-hy/blob/main/README.md) <br />
 <a id="2">&nbsp;&nbsp;2.&nbsp;</a>
 [Русская мнемоническая раскладка клавиатуры.](https://github.com/dotland/mnemonic-kb-ru/blob/main/README.md) <br />
-<a id="3">&nbsp;&nbsp;3.&nbsp;</a>
-[Հայերենի բառարանային մոդել։](https://github.com/dotland/lexical-model-hy/blob/main/README.md) <br />
