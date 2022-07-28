@@ -89,7 +89,7 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 ### Կարգավորումները
 
-&nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic» ստեղնաշարն ունի կցագրեր մուտքագրելու հատկություն: Windows և Linux ՕՀ-երում այն հնարավոր է միացնել կամ անջատել գրաֆիկական ինտերֆեյսով՝ անցնելով &nbsp;`Configuration...` –› `Keyboard Layouts` –› `Armenian Mnemonic R`  –› `Keyboard options`. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic R» ստեղնաշարն ունի կցագրեր մուտքագրելու հատկություն: Windows և Linux ՕՀ-երում այն հնարավոր է միացնել կամ անջատել գրաֆիկական ինտերֆեյսով՝ անցնելով &nbsp;`Configuration...` –› `Keyboard Layouts` –› `Armenian Mnemonic R`  –› `Keyboard options`. <br />
 
 <img src="https://user-images.githubusercontent.com/6199709/181506410-34ede7cd-cd2d-47c1-822d-5585ab54995a.png" width="500" />
 
