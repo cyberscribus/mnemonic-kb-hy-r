@@ -122,4 +122,6 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 <a id="1">&nbsp;&nbsp;1.&nbsp;</a>
 [Հայկական մնեմոնիկ ստեղնաշարի նախագիծը։](https://github.com/dotland/mnemonic-kb-hy/blob/main/README.md) <br />
 <a id="2">&nbsp;&nbsp;2.&nbsp;</a>
+[Keyman Help – Armenian Mnemonic R Keyboard Help.](https://help.keyman.com/keyboard/armenian_mnemonic_r) <br />
+<a id="3">&nbsp;&nbsp;3.&nbsp;</a>
 [Русская мнемоническая раскладка клавиатуры.](https://github.com/dotland/mnemonic-kb-ru/blob/main/README.md) <br />
