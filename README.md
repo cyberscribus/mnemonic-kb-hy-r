@@ -107,6 +107,10 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 &nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman հավելվածը [Android](https://keyman.com/android/) կամ [iOS](https://keyman.com/iphone-and-ipad/) ՕՀ-ի համար, բացեք հավելվածը, կարգավորումներ բաժնից ընտրեք նախորոք ներբեռնած [hymr.kmp](https://github.com/dotland/mnemonic-kb-hy-r/releases/latest/download/hymr.kmp) ֆայլը ( `⋮` –› `Settings` –› `Install Keyboard or Dictionary` –› `Install from local file` ),  և սեղմեք `Install` կոճակը: Նմանապես, տեղադրեք [hy.kmp](https://github.com/dotland/lexical-model-hy/releases/latest/download/hy.kmp) ֆայլը տեքստային առաջարկների համար: <br />
 
+##### Web
+
+ &nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic R» ստեղնաշարը կարող է ավելացվել ցանկացած վեբ-կայքում՝ ընդամենը մի քանի տող կոդով: Վեբ-էջի նմուշը գտնվում է [այս պահոցում](https://github.com/dotland/keymanweb-demo-hy-r):
+
 ### Կարգավորումները
 
 &nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic R» ստեղնաշարն ունի կցագրեր մուտքագրելու հատկություն: Windows և Linux ՕՀ-երում այն հնարավոր է միացնել կամ անջատել գրաֆիկական ինտերֆեյսով՝ անցնելով &nbsp;`Configuration...` –› `Keyboard Layouts` –› `Armenian Mnemonic R`  –› `Keyboard options`. <br />
