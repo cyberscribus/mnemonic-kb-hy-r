@@ -53,21 +53,21 @@
 
 
 ##### Նկ. 1. «Armenian Mnemonic R» ստեղնաշարը
-<p><img width="800" src="./armenian_mnemonic_r/source/welcome/HYM.png" alt="«Armenian Mnemonic R» ստեղնաշարի նախագիծը" title="«Armenian Mnemonic R» ստեղնաշարի նախագիծը" /></p>
+<p><img width="800" src="./armenian_mnemonic_r/source/welcome/HYM.png" alt="«Armenian Mnemonic R» ստեղնաշարը" title="«Armenian Mnemonic R» ստեղնաշարը" /></p>
 
 ##### Նկ. 2. «Armenian Mnemonic R» ստեղնաշարը `Caps Lock` ստեղնը միացրած
-<p><img width="800" src="./armenian_mnemonic_r/source/welcome/HYM-caps-lock.png" alt="«Armenian Mnemonic R» ստեղնաշարի նախագիծը Caps Lock ստեղնը սեղմած" title="«Armenian Mnemonic R» ստեղնաշարի նախագիծը Caps Lock ստեղնը սեղմած" /></p>
+<p><img width="800" src="./armenian_mnemonic_r/source/welcome/HYM-caps-lock.png" alt="«Armenian Mnemonic R» ստեղնաշարը Caps Lock ստեղնը սեղմած" title="«Armenian Mnemonic R» ստեղնաշարը Caps Lock ստեղնը սեղմած" /></p>
 
 ##### Նկ. 3. «Armenian Mnemonic R» ստեղնաշարը `Shift` ստեղնը սեղմած 
-<p><img width="800" src="./armenian_mnemonic_r/source/welcome/HYM-shift.png" alt="«Armenian Mnemonic R» ստեղնաշարի նախագիծը Shift ստեղնը սեղմած" title="«Armenian Mnemonic R» ստեղնաշարի նախագիծը Shift ստեղնը սեղմած" /></p>
+<p><img width="800" src="./armenian_mnemonic_r/source/welcome/HYM-shift.png" alt="«Armenian Mnemonic R» ստեղնաշարը Shift ստեղնը սեղմած" title="«Armenian Mnemonic R» ստեղնաշարը Shift ստեղնը սեղմած" /></p>
 
 ##### Նկ. 4. «Armenian Mnemonic R» ստեղնաշարը `AltGr` ստեղնը սեղմած
-<p><img width="800" src="./armenian_mnemonic_r/source/welcome/HYM-altgr.png" alt="«Armenian Mnemonic R» ստեղնաշարի նախագիծը AltGr ստեղնը սեղմած" title="«Armenian Mnemonic R» ստեղնաշարի նախագիծը AltGr ստեղնը սեղմած" /></p>
+<p><img width="800" src="./armenian_mnemonic_r/source/welcome/HYM-altgr.png" alt="«Armenian Mnemonic R» ստեղնաշարը AltGr ստեղնը սեղմած" title="«Armenian Mnemonic R» ստեղնաշարը AltGr ստեղնը սեղմած" /></p>
 
 ##### Նկ. 5. «Armenian Mnemonic R» ստեղնաշարը `AltGr`+`Shift` ստեղների զուգակցությամբ 
-<p><img width="800" src="./armenian_mnemonic_r/source/welcome/HYM-altgr-shift.png" alt="«Armenian Mnemonic R» ստեղնաշարի նախագիծը AltGr Shift ստեղների զուգակցությամբ" title="«Armenian Mnemonic R» ստեղնաշարի նախագիծը AltGr Shift ստեղների զուգակցությամբ" /></p>
+<p><img width="800" src="./armenian_mnemonic_r/source/welcome/HYM-altgr-shift.png" alt="«Armenian Mnemonic R» ստեղնաշարը AltGr Shift ստեղների զուգակցությամբ" title="«Armenian Mnemonic R» ստեղնաշարը AltGr Shift ստեղների զուգակցությամբ" /></p>
 
-Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wikipedia.org/wiki/AltGr_key)) աջ `Alt` ստեղն է, իսկ macOS ՕՀ-ում այդ ստեղնին համապատասխանում է `⌥` ստեղնը ([Option](https://en.wikipedia.org/wiki/Option_key))։ Ստեղնաշարի այլ նախագծերում, ինչպիսին են՝ «Armenian Phonetic» կամ «Armenian Typewriter», `AltGr` ստեղնով հնարավոր է մուտքագրել թվանշաններ, փակագծեր, շեղագծեր, իսկ `AltGr`+`Shift` ստեղների զուգակցությամբ՝ «US» ստեղնաշարի վրա գտնվող հատուկ սիմվոլները։
+Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wikipedia.org/wiki/AltGr_key)) աջ `Alt` ստեղն է, իսկ macOS ՕՀ-ում այդ ստեղնին համապատասխանում է `⌥` ստեղնը ([Option](https://en.wikipedia.org/wiki/Option_key))։ Այլ ստեղնաշարներում, ինչպիսին են՝ «Armenian Phonetic» կամ «Armenian Typewriter», `AltGr` ստեղնով հնարավոր է մուտքագրել թվանշաններ, փակագծեր, շեղագծեր, իսկ `AltGr`+`Shift` ստեղների զուգակցությամբ՝ «US» ստեղնաշարի վրա գտնվող հատուկ սիմվոլները։
 
 &nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic R» հպաստեղնաշարը սմարթֆոնների համար ունի այլ տեսք, քանի որ այս դեպքում չկան մոդիֆիկատոր-ստեղներ.
 
