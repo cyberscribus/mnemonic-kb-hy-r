@@ -100,12 +100,12 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 ##### Windows, macOS, Linux
 
-&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman ծրագիրը [Windows](https://keyman.com/windows/), [macOS](https://keyman.com/mac/) կամ [Linux](https://keyman.com/linux/) ՕՀ-ի վրա: Մկնիկի աջ կոճակով սեղմելով՝ խնդրագոտու վրա գտնվող Keyman պատկերակը՝ անցեք `Configuration…` բաժինը: Այնուհետև սեղմեք `Install keyboard…` կոճակը, ընտրեք նախորոք ներբեռնած [hymr.kmp](https://github.com/dotland/mnemonic-kb-hy-r/releases/latest/download/hymr.kmp) ֆայլը և սեղմեք `Install` կոճակը: Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, որից հետո կարող եք ընտրել&nbsp; «Armenian Mnemonic R»  &nbsp;մուտքագրման լեզուն&nbsp; `❖`+`Բացատ`&nbsp; ստեղների զուգակցությամբ, որտեղ `❖` ([Super](https://en.wikipedia.org/wiki/Super_key_(keyboard_button))) ստեղնը Windows ՕՀ-ում &nbsp;<img width="15"  src="https://user-images.githubusercontent.com/6199709/219590104-592ef021-14a5-4d46-a662-1948a59755b0.png" alt="Windows ստեղն" title="Windows ստեղն" /> (Windows) ստեղնն է, իսկ macOS ՕՀ-ում՝ `⌘` (Command) ստեղնը։ <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman ծրագիրը [Windows](https://keyman.com/windows/), [macOS](https://keyman.com/mac/) կամ [Linux](https://keyman.com/linux/) ՕՀ-ի վրա: Մկնիկի աջ կոճակով սեղմելով՝ խնդրագոտու վրա գտնվող Keyman պատկերակը՝ անցեք `Configuration…` բաժինը: Այնուհետև սեղմեք `Install keyboard…` կոճակը, ընտրեք նախորոք ներբեռնած [armenian_mnemonic_r.kmp](https://github.com/dotland/mnemonic-kb-hy-r/releases/latest/download/armenian_mnemonic_r.kmp) ֆայլը և սեղմեք `Install` կոճակը: Հաջող տեղադրումից հետո վերագործարկեք ՕՀ-ը, որից հետո կարող եք ընտրել&nbsp; «Armenian Mnemonic R»  &nbsp;մուտքագրման լեզուն&nbsp; `❖`+`Բացատ`&nbsp; ստեղների զուգակցությամբ, որտեղ `❖` ([Super](https://en.wikipedia.org/wiki/Super_key_(keyboard_button))) ստեղնը Windows ՕՀ-ում &nbsp;<img width="15"  src="https://user-images.githubusercontent.com/6199709/219590104-592ef021-14a5-4d46-a662-1948a59755b0.png" alt="Windows ստեղն" title="Windows ստեղն" /> (Windows) ստեղնն է, իսկ macOS ՕՀ-ում՝ `⌘` (Command) ստեղնը։ <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Windows ՕՀ-ում հնարավոր է առաջանալ խնդիր՝ կապված ոչ ակտիվ ստեղնաշարով մուտքագրման հետ: Այն շտկելու համար [տեսանելի դարձրեք Keyman պատկերակը](https://help.keyman.com/products/windows/12.0/docs/troubleshooting_hidden) խնդրագոտու վրա, անջատեք տեքստային առաջարկների ընտրանքները ՕՀ-ի մուտքագրման կարգավորումներից և վերագործարկեք ՕՀ-ը:
 
 ##### Android, iOS
 
-&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman հավելվածը [Android](https://keyman.com/android/) կամ [iOS](https://keyman.com/iphone-and-ipad/) ՕՀ-ի համար, բացեք հավելվածը, կարգավորումներ բաժնից ընտրեք նախորոք ներբեռնած [hymr.kmp](https://github.com/dotland/mnemonic-kb-hy-r/releases/latest/download/hymr.kmp) ֆայլը ( `⋮` –› `Settings` –› `Install Keyboard or Dictionary` –› `Install from local file` ),  և սեղմեք `Install` կոճակը: Նմանապես, տեղադրեք [hy.kmp](https://github.com/dotland/lexical-model-hy/releases/latest/download/hy.kmp) ֆայլը տեքստային առաջարկների համար: <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Տեղադրեք Keyman հավելվածը [Android](https://keyman.com/android/) կամ [iOS](https://keyman.com/iphone-and-ipad/) ՕՀ-ի համար, բացեք հավելվածը, կարգավորումներ բաժնից ընտրեք նախորոք ներբեռնած [armenian_mnemonic_r.kmp](https://github.com/dotland/mnemonic-kb-hy-r/releases/latest/download/armenian_mnemonic_r.kmp) ֆայլը ( `⋮` –› `Settings` –› `Install Keyboard or Dictionary` –› `Install from local file` ),  և սեղմեք `Install` կոճակը: Նմանապես, տեղադրեք [hy.kmp](https://github.com/dotland/lexical-model-hy/releases/latest/download/hy.kmp) ֆայլը տեքստային առաջարկների համար: <br />
 
 ##### Web
 
@@ -115,11 +115,11 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 
 &nbsp;&nbsp;&nbsp;&nbsp;«Armenian Mnemonic R» ստեղնաշարն ունի կցագրեր մուտքագրելու հատկություն: Windows և Linux ՕՀ-երում այն հնարավոր է միացնել կամ անջատել գրաֆիկական ինտերֆեյսով՝ անցնելով &nbsp;`Configuration…` –› `Keyboard Layouts` –› `Armenian Mnemonic R`  –› `Keyboard options…`. <br />
 
-<img src="https://user-images.githubusercontent.com/6199709/181506410-34ede7cd-cd2d-47c1-822d-5585ab54995a.png" width="500" />
+<img src="https://github.com/user-attachments/assets/92eeb389-49c9-4ccf-84b6-dc0a8b99c17c" width="500" />
 
 Իսկ macOS, iOS, Android ՕՀ-երում կցագրերի մուտքագրումը հնարավոր է միացնել կամ անջատել. <br />
-&nbsp;&nbsp;&nbsp;&nbsp;• **ե ւ** կից տառերի զույգի համար՝ մուտքագրելով &nbsp;√ւ &nbsp;(այսինքն՝&nbsp; `⌥`+`V`&nbsp;`W`), <br />
-&nbsp;&nbsp;&nbsp;&nbsp;• **մ ն, մ ե, մ ի, վ ն, մ խ** կից տառերի զույգերի համար՝ մուտքագրելով &nbsp;√մ &nbsp;(այսինքն՝&nbsp; `⌥`+`V`&nbsp;`M`): <br />
+&nbsp;&nbsp;&nbsp;&nbsp;• **ե ւ** կից տառերի համար՝ մուտքագրելով &nbsp;√ւ &nbsp;(այսինքն՝&nbsp; `⌥`+`V`&nbsp;`W`), <br />
+&nbsp;&nbsp;&nbsp;&nbsp;• **մ ն, մ ե, մ ի, վ ն, մ խ** կից տառերի համար՝ մուտքագրելով &nbsp;√մ &nbsp;(այսինքն՝&nbsp; `⌥`+`V`&nbsp;`M`): <br />
 
 ### Հղումներ
 
